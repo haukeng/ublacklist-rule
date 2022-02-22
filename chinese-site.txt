@@ -1,0 +1,9 @@
+*://*.baidu.com/*
+*://*.csdn.net/*
+*://*.zhihu.com/*
+*://*.w3cschool.cn/*
+*://*.huaweicloud.com/*
+*://*.myapp.com/*
+*://*.douyin.com/*
+*://sj.qq.com/*
+
